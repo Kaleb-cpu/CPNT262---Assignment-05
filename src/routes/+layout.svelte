@@ -4,7 +4,7 @@
 
 <nav>
   <a href="/">Home</a>
-  <a href="/math">Math</a>
+  <a href="/about">About</a>
 </nav>
 
 <h1>CPNT 262</h1>

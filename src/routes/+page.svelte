@@ -1,1 +1,1 @@
-<p>Click on Math to add some numbers!</p>
+<p>Click on the About page and tell me a bit about yourself  !</p>
